@@ -1,16 +1,42 @@
-## Hi there 👋
+## Pedro Rivera
 
-<!--
-**bluerockdump/bluerockdump** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Support Professional | Cybersecurity & Networking Enthusiast 
 
-Here are some ideas to get you started:
+Experienced IT Support professional with a passion for cybersecurity, network infastructure, Microsoft 365 administration, and automation. Building hands-on projects focused on security operations, Active Directory, PowerShell, and enterprise networking.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Areas of Focus 
+
+  - Cyber Security Operations
+  - Network Security
+  - Microsoft 365 Security
+  - Active Directory
+  - PowerShell Automation
+  - Incident Response
+  - Vulnerability Management
+
+Current Projects 
+
+Cybersecurity Home Lab
+
+Building and documenting a security-focused lab environment.
+
+PowerShell Security Toolkit
+
+Scripts for auditing, reporting, and security monitoring.
+
+Network Troubleshooting Playbooks
+
+Real-world troubleshooting scenarios and resolutions.
+
+Professional Goals
+
+  - Security Analyst
+  - Network Engineer
+  - Security Engineer
+
+Connect With Me
+
+LinkedIn: linkedin.com/in/pedro-rivera-201596191
+
+GutHub Portfolio: https://github.com/bluerockdump
+
